@@ -1,0 +1,3 @@
+1、pxc rpc mongodb es  jekens上下线 hbase就是rpc hadoop主要是运维方面的
+2、消息队列（异步处理 系统处理）
+3、索引btree()
